@@ -22,7 +22,7 @@ namespace Web
 		SpeechSynthesizer SpeechSynthesizer = new SpeechSynthesizer();
 
 		/*GET参数列表
-			 * msg：内容。不可为空
+			 * msg：内容。不可为空sfsfdsdfsdf
 			 * voiceName：语音名称。通过名称选择特定语音。默认为VW Liang
 			 * type：类型。1播放，2下载。默认为1
 			 */
